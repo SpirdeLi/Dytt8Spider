@@ -91,5 +91,5 @@ ITEM_PIPELINES = {
 MYSQL_HOST = 'localhost'
 MYSQL_DBNAME = 'Movie'
 MYSQL_USER = 'root'
-MYSQL_PASSWD = '19960813lql'
+MYSQL_PASSWD = 'xxxxxxxx'#this is your password
 MYSQL_PORT = 3306
